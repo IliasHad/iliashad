@@ -2,6 +2,6 @@
 
 A Full Stack JavaScript Developer, Indie Maker, and Freelancer.
 
-[![Ilias's github stats](https://github-readme-stats.vercel.app/api?username=iliashad)](https://github.com/anuraghazra/github-readme-stats)
+[![Ilias's github stats](https://github-readme-stats.vercel.app/api?username=iliashad)](https://github.com/iliashad/)
 
 
